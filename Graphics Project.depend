@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1526110212 source:c:\users\hamza\desktop\graphics project\circle.cpp
+	"Circle.h"
+	<math.h>
+
+1493632947 c:\users\hamza\desktop\graphics project\circle.h
+	<Windows.h>
+
+1526110220 source:c:\users\hamza\desktop\graphics project\clipping.cpp
+	"Clipping.h"
+	"Line.h"
+
+1493853745 c:\users\hamza\desktop\graphics project\clipping.h
+	"Line.h"
+
+1494201399 c:\users\hamza\desktop\graphics project\line.h
+	<windows.h>
+
+1526110226 source:c:\users\hamza\desktop\graphics project\curve.cpp
+	"Curve.h"
+	<Windows.h>
+	<math.h>
+
+1494099702 c:\users\hamza\desktop\graphics project\curve.h
+	<Windows.h>
+	<math.h>
+
+1526110231 source:c:\users\hamza\desktop\graphics project\file.cpp
+	"File.h"
+	<windows.h>
+	<cmath>
+	<iostream>
+	<fstream>
+	<Commdlg.h>
+	<sstream>
+
+1493818538 c:\users\hamza\desktop\graphics project\file.h
+	<windows.h>
+	<cmath>
+	<fstream>
+	<vector>
+
+1526110504 source:c:\users\hamza\desktop\graphics project\filling.cpp
+	"Filling.h"
+	<math.h>
+	<Windows.h>
+
+1526110405 c:\users\hamza\desktop\graphics project\filling.h
+	<Windows.h>
+
+1526111495 source:c:\users\hamza\desktop\graphics project\graphics project.cpp
+	<windows.h>
+	"resource.h"
+	<tchar.h>
+	<wchar.h>
+	"commdlg.h"
+	<string>
+	<math.h>
+	<stdio.h>
+	"Resource.h"
+	"Line.h"
+	"Circle.h"
+	"Curve.h"
+	"Clipping.h"
+	"File.h"
+	"Filling.h"
+	<vector>
+
+1494135699 c:\users\hamza\desktop\graphics project\resource.h
+
+1526110693 source:c:\users\hamza\desktop\graphics project\line.cpp
+	"Line.h"
+	<Windows.h>
+	<math.h>
+
+1526110737 source:c:\users\hamza\desktop\graphics project\main.cpp
+
+1526110212 source:e:\codes\c++\graphics project\circle.cpp
+	"Circle.h"
+	<math.h>
+
+1493632947 e:\codes\c++\graphics project\circle.h
+	<Windows.h>
+
+1526110220 source:e:\codes\c++\graphics project\clipping.cpp
+	"Clipping.h"
+	"Line.h"
+
+1493853745 e:\codes\c++\graphics project\clipping.h
+	"Line.h"
+
+1494201399 e:\codes\c++\graphics project\line.h
+	<windows.h>
+
+1526110226 source:e:\codes\c++\graphics project\curve.cpp
+	"Curve.h"
+	<Windows.h>
+	<math.h>
+
+1494099702 e:\codes\c++\graphics project\curve.h
+	<Windows.h>
+	<math.h>
+
+1526110231 source:e:\codes\c++\graphics project\file.cpp
+	"File.h"
+	<windows.h>
+	<cmath>
+	<iostream>
+	<fstream>
+	<Commdlg.h>
+	<sstream>
+
+1493818538 e:\codes\c++\graphics project\file.h
+	<windows.h>
+	<cmath>
+	<fstream>
+	<vector>
+
+1526110504 source:e:\codes\c++\graphics project\filling.cpp
+	"Filling.h"
+	<math.h>
+	<Windows.h>
+
+1526110405 e:\codes\c++\graphics project\filling.h
+	<Windows.h>
+
+1526111495 source:e:\codes\c++\graphics project\graphics project.cpp
+	<windows.h>
+	"resource.h"
+	<tchar.h>
+	<wchar.h>
+	"commdlg.h"
+	<string>
+	<math.h>
+	<stdio.h>
+	"Resource.h"
+	"Line.h"
+	"Circle.h"
+	"Curve.h"
+	"Clipping.h"
+	"File.h"
+	"Filling.h"
+	<vector>
+
+1494135699 e:\codes\c++\graphics project\resource.h
+
+1526110693 source:e:\codes\c++\graphics project\line.cpp
+	"Line.h"
+	<Windows.h>
+	<math.h>
+
